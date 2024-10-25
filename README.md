@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0812-rotate-string](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0812-rotate-string) |
 | [1714-rearrange-spaces-between-words](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1714-rearrange-spaces-between-words) |
 ## String Matching
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0189-rotate-array) |
 ## Matrix
@@ -61,4 +63,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0075-sort-colors) |
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
