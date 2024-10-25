@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0189-rotate-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
@@ -27,4 +28,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0812-rotate-string) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
