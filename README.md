@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0189-rotate-array) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1146-greatest-common-divisor-of-strings) |
+| [2610-closest-prime-numbers-in-range](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2610-closest-prime-numbers-in-range) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,4 +76,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0043-multiply-strings) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
