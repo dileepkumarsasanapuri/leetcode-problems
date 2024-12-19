@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0047-permutations-ii) |
+| [0074-search-a-2d-matrix](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0162-find-peak-element) |
@@ -81,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2508-maximum-sum-of-an-hourglass) |
 ## Backtracking
 |  |
