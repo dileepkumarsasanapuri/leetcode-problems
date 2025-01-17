@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1078-remove-outermost-parentheses](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1714-rearrange-spaces-between-words](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1714-rearrange-spaces-between-words) |
+| [2032-largest-odd-number-in-string](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2032-largest-odd-number-in-string) |
 ## String Matching
 |  |
 | ------- |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0043-multiply-strings) |
 | [0189-rotate-array](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0189-rotate-array) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1146-greatest-common-divisor-of-strings) |
+| [2032-largest-odd-number-in-string](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2032-largest-odd-number-in-string) |
 | [2610-closest-prime-numbers-in-range](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2610-closest-prime-numbers-in-range) |
 ## Two Pointers
 |  |
@@ -119,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0410-split-array-largest-sum) |
+| [2032-largest-odd-number-in-string](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2032-largest-odd-number-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
