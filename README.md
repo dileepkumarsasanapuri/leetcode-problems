@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
+| [0008-string-to-integer-atoi](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
