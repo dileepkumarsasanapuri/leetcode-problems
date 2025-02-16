@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1646-kth-missing-positive-number) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2331-intersection-of-multiple-arrays](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2331-intersection-of-multiple-arrays) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0078-subsets) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Sorting
 |  |
