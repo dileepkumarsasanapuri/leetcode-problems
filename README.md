@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0812-rotate-string](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1160-letter-tile-possibilities](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1160-letter-tile-possibilities) |
 | [1714-rearrange-spaces-between-words](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1714-rearrange-spaces-between-words) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0078-subsets) |
+| [1160-letter-tile-possibilities](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Sorting
@@ -172,12 +174,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
+| [1160-letter-tile-possibilities](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1160-letter-tile-possibilities) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2331-intersection-of-multiple-arrays](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2331-intersection-of-multiple-arrays) |
 ## Counting
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
+| [1160-letter-tile-possibilities](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1160-letter-tile-possibilities) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2331-intersection-of-multiple-arrays](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2331-intersection-of-multiple-arrays) |
 ## Stack
