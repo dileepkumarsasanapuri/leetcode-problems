@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2032-largest-odd-number-in-string) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2456-construct-smallest-number-from-di-string) |
 ## String Matching
 |  |
 | ------- |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0078-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Sorting
 |  |
@@ -157,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2032-largest-odd-number-in-string) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -190,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
