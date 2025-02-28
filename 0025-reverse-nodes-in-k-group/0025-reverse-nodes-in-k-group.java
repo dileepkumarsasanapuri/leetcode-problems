@@ -9,45 +9,48 @@
  * }
  */
 class Solution {
-    static ListNode getKthNode(ListNode temp,int k){
-        k=k-1;
+    public ListNode getKthNode(ListNode head,int k){
+        ListNode temp=head;
+        k--;
         while(temp!=null && k>0){
-            k--;
             temp=temp.next;
+            k--;
         }
         return temp;
     }
-    static ListNode reverse(ListNode head){
-        ListNode temp=head,prev=null;
-        while(temp!=null){
-            ListNode front=temp.next;
-            temp.next=prev;
-            prev=temp;
-            temp=front;
+    public ListNode reverse(ListNode head){
+        ListNode cur=head,prev=null;
+        while(cur!=null){
+            ListNode front=cur.next;
+            cur.next=prev;
+            prev=cur;
+            cur=front;
         }
         return prev;
     }
     public ListNode reverseKGroup(ListNode head, int k) {
-        ListNode temp=head, prevNode=null;
+        ListNode temp=head,prevNode=null;;
         while(temp!=null){
-            ListNode kthNode=getKthNode(temp,k);
-            if(kthNode==null){
-                if(prevNode!=null) prevNode.next=temp;
-                break;
+            ListNode KthNode=getKthNode(temp,k);
+            if(KthNode==null){
+                if(prevNode!=null){
+                    prevNode.next=temp;
+                    break;
+                }
             }
-            ListNode nextnode=kthNode.next;
-            kthNode.next=null;
-           kthNode= reverse(temp);
+            ListNode nextNode=KthNode.next;
+            KthNode.next=null;
+            KthNode=reverse(temp);
             if(temp==head){
-                head=kthNode;
+                head=KthNode;
             }
             else{
-                prevNode.next=kthNode;
+                prevNode.next=KthNode;
             }
             prevNode=temp;
-            temp=nextnode;
+            temp=nextNode;
+
         }
         return head;
-        
     }
 }
