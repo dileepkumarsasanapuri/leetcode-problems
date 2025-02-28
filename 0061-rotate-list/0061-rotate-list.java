@@ -27,7 +27,7 @@ class Solution {
         }
         k=k%len;
         if(k==0) return head;
-        ListNode newTail=KthNode(head,k);
+        ListNode newTail=KthNode(head,len-k);
         tail.next=head;
         head=newTail.next;
         newTail.next=null;
