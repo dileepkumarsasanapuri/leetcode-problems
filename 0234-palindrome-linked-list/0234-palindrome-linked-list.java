@@ -9,22 +9,15 @@
  * }
  */
 class Solution {
+    ListNode curr;
     public boolean isPalindrome(ListNode head) {
-        ArrayList<Integer> dumm=new ArrayList<>();
-        ListNode temp=head;
-        while(temp!=null){
-            dumm.add(temp.val);
-            temp=temp.next;
-        }
-        int left=0;
-        int right=dumm.size()-1;
-        while(left<=right){
-            if(dumm.get(left)!=dumm.get(right)){
-                return false;
-            }
-            left++;
-            right--;
-        }
-        return true;
+        curr=head;
+        return solve(head);
+    }
+    public boolean solve(ListNode head){
+        if(head==null) return true;
+        boolean ans = solve(head.next) && head.val==curr.val;
+        curr=curr.next;
+        return ans;
     }
 }
