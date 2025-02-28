@@ -9,28 +9,26 @@
  * }
  */
 class Solution {
-    static ListNode findKthNode(ListNode head,int k){
-        int cnt=1;
-        while(head!=null){
-            if(cnt ==k) return head;
-            cnt++;
+    public ListNode KthNode(ListNode head,int k){
+        k--;
+        while(head!=null && k>0){
             head=head.next;
+            k--;
         }
         return head;
     }
     public ListNode rotateRight(ListNode head, int k) {
-        if(head==null || k==0) return head;
+        if(head==null || k<=0) return head;
         ListNode tail=head;
         int len=1;
         while(tail.next!=null){
-           len++;
-           tail=tail.next; 
+            tail=tail.next;
+            len++;
         }
-      
-        if(k%len==0) return head;
-        tail.next=head;
         k=k%len;
-        ListNode newTail=findKthNode(head,len-k);
+        if(k==0) return head;
+        ListNode newTail=KthNode(head,k);
+        tail.next=head;
         head=newTail.next;
         newTail.next=null;
         return head;
