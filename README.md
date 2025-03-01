@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0008-string-to-integer-atoi](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0205-isomorphic-strings) |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0410-split-array-largest-sum) |
 ## Simulation
 |  |
@@ -196,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0234-palindrome-linked-list) |
