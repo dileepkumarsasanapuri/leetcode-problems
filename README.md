@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0812-rotate-string) |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0224-basic-calculator) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2050-count-good-numbers) |
@@ -206,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0234-palindrome-linked-list) |
@@ -250,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0025-reverse-nodes-in-k-group](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [2050-count-good-numbers](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2050-count-good-numbers) |
 ## Merge Sort
