@@ -33,7 +33,7 @@ class Solution {
                     Q.add(curNode.right);
                 }
             }
-                  if(leftToright==false){
+            if(leftToright==false){
                     Collections.reverse(subLvl);
                 }
                result.add(subLvl);
