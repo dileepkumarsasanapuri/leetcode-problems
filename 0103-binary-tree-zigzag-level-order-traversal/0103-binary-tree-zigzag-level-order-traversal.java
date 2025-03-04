@@ -13,33 +13,48 @@
  *     }
  * }
  */
-class Solution {
+ class Solution {
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
-        List<List<Integer>> result=new ArrayList<>();
-        if(root == null )return result;
-        Queue<TreeNode> Q=new LinkedList<>();
-        Q.add(root); 
-        boolean leftToright=true;
-        while(!Q.isEmpty()){
-            int n=Q.size();
-            List<Integer> subLvl=new ArrayList<>();
-            for(int i=0;i<n;i++){
-                TreeNode curNode=Q.poll();
-                subLvl.add(curNode.val);
-                if(curNode.left!=null){
-                        Q.add(curNode.left);
+        List<List<Integer>> result = new ArrayList<>();
+        if (root == null)   return result;
+        Stack<TreeNode> stack1 = new Stack<>();
+        Stack<TreeNode> stack2 = new Stack<>();
+        stack1.push(root);
+        while (!stack1.isEmpty() || !stack2.isEmpty()) {
+            List<Integer> levelElements = new ArrayList<>();
+            while (!stack1.isEmpty()) {
+                TreeNode curr = stack1.pop();
+                levelElements.add(curr.val);
+
+                if (curr.left != null) {
+                    stack2.push(curr.left);
                 }
-                if(curNode.right!=null){
-                    Q.add(curNode.right);
+
+                if (curr.right != null) {
+                    stack2.push(curr.right);
                 }
             }
-            if(leftToright==false){
-                    Collections.reverse(subLvl);
+
+            if (levelElements.size() > 0)
+                result.add(levelElements);
+            List<Integer> levelElements1 = new ArrayList<>();
+
+            while (!stack2.isEmpty()) {
+                TreeNode curr = stack2.pop();
+                levelElements1.add(curr.val);
+
+                if (curr.right != null) {
+                    stack1.push(curr.right);
                 }
-               result.add(subLvl);
-               leftToright=!leftToright;
+
+                if (curr.left != null) {
+                    stack1.push(curr.left);
+                }
             }
-              return result;
+
+            if (levelElements1.size() > 0)
+                result.add(levelElements1);
         }
-      
+        return result;
     }
+}
