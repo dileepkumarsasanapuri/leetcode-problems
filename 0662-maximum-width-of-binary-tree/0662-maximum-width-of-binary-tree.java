@@ -12,46 +12,37 @@
  *         this.right = right;
  *     }
  * }
- */import java.util.*;
-
+ */
+  class Pair{
+    TreeNode root;
+    int n;
+    Pair(TreeNode root,int n){
+        this.root=root;
+        this.n=n;
+    }
+ }
 class Solution {
     public int widthOfBinaryTree(TreeNode root) {
-        if (root == null) return 0;
-        
-        Queue<Pair> queue = new LinkedList<>();
-        queue.offer(new Pair(root, 0));  // Store (node, index)
-        int maxWidth = 0;
-        
-        while (!queue.isEmpty()) {
-            int size = queue.size();
-            int minIndex = queue.peek().index;  // Leftmost index of this level
-            int first = 0, last = 0;
-            
-            for (int i = 0; i < size; i++) {
-                Pair p = queue.poll();
-                TreeNode node = p.node;
-                int curIndex = p.index - minIndex;  // Normalize index to prevent overflow
-                
-                if (i == 0) first = curIndex;  // First node in the level
-                if (i == size - 1) last = curIndex;  // Last node in the level
-                
-                if (node.left != null) queue.offer(new Pair(node.left, 2 * curIndex));
-                if (node.right != null) queue.offer(new Pair(node.right, 2 * curIndex + 1));
-            }
-            
-            maxWidth = Math.max(maxWidth, last - first + 1);
-        }
-        
-        return maxWidth;
-    }
-}
+        if(root==null) return 0;
+        int ans=0;
+        Queue<Pair> q=new LinkedList<>();
+        q.offer(new Pair(root,0));
+        while(!q.isEmpty()){
+            int size=q.size();
+            int min=q.peek().n;
+            int first=0,last=0;
+            for(int i=0;i<size;i++){
+                Pair p=q.poll();
+                TreeNode node=p.root;
+                int curInd=p.n-min;
+                if(i==0 )first=curInd;
+                if(i==size-1) last=curInd;
+                if(node.left!=null) q.offer(new Pair(node.left,2*curInd));
+                if(node.right!=null) q.offer(new Pair(node.right,2*curInd+1 ));
 
-class Pair {
-    TreeNode node;
-    int index;
-    
-    Pair(TreeNode node, int index) {
-        this.node = node;
-        this.index = index;
+            }
+            ans=Math.max(ans,last-first+1);
+        }
+        return ans;
     }
 }
