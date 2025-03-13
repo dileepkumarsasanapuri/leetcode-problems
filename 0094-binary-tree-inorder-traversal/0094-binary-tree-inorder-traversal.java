@@ -12,26 +12,32 @@
  *         this.right = right;
  *     }
  * }
- */import java.util.*;
-
+ */
 class Solution {
     public List<Integer> inorderTraversal(TreeNode root) {
-        List<Integer> ans = new ArrayList<>();
-        Stack<TreeNode> stack = new Stack<>();
-        TreeNode curr = root;
-        
-        while (curr != null || !stack.isEmpty()) {
-            // Traverse to the leftmost node
-            while (curr != null) {
-                stack.push(curr);
-                curr = curr.left;
+        List<Integer> res=new ArrayList<>();
+        TreeNode cur=root;
+        while(cur!=null){
+            if(cur.left==null){
+                res.add(cur.val);
+                cur=cur.right;
             }
-            // Process the node
-            curr = stack.pop();
-            ans.add(curr.val);
-            // Move to the right subtree
-            curr = curr.right;
+            else{
+                TreeNode prev=cur.left;
+                while(prev.right!=null && prev.right!=cur){
+                    prev=prev.right;
+                }
+                if(prev.right==null){
+                    prev.right=cur;
+                    cur=cur.left;
+                }
+                else{
+                    prev.right=null;
+                    res.add(cur.val);
+                    cur=cur.right;
+                }
+            }
         }
-        return ans;
+        return res;
     }
 }
