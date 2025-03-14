@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1078-remove-outermost-parentheses](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1160-letter-tile-possibilities](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1160-letter-tile-possibilities) |
+| [1508-longest-happy-prefix](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1508-longest-happy-prefix) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1714-rearrange-spaces-between-words](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1714-rearrange-spaces-between-words) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0812-rotate-string) |
+| [1508-longest-happy-prefix](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1508-longest-happy-prefix) |
 ## Math
 |  |
 | ------- |
@@ -425,4 +427,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0210-course-schedule-ii) |
+## Rolling Hash
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1508-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1508-longest-happy-prefix) |
 <!---LeetCode Topics End-->
