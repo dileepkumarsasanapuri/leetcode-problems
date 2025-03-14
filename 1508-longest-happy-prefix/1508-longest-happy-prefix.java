@@ -1,14 +1,18 @@
 class Solution {
     public String longestPrefix(String s) {
-        String res = "";
-        for (int i = s.length()-1; i>=0; i--){
-            String str = s.substring(0, i);
-            if (s.endsWith(str)){
-                res+=str;
-                break;
-            }
+     int n=s.length();
+     int []lps=new int[n];
+     int j=0;
+     for(int i=1;i<n;i++){
+        while(j>0 && s.charAt(i)!=s.charAt(j)){
+            j=lps[j-1];
         }
-        return res;
+        if(s.charAt(i)==s.charAt(j)){
+            j++;
+        }
+        lps[i]=j;
+     }
+     return s.substring(0,lps[n-1]);
         
     }
 }
