@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0739-daily-temperatures) |
 | [1046-max-consecutive-ones-iii](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1185-find-in-mountain-array](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1185-find-in-mountain-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1185-find-in-mountain-array](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1185-find-in-mountain-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1646-kth-missing-positive-number) |
@@ -447,4 +449,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0214-shortest-palindrome](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1508-longest-happy-prefix) |
+## Interactive
+|  |
+| ------- |
+| [1185-find-in-mountain-array](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1185-find-in-mountain-array) |
 <!---LeetCode Topics End-->
