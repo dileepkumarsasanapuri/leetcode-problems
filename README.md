@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0054-spiral-matrix) |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0141-linked-list-cycle) |
@@ -181,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0410-split-array-largest-sum) |
 ## Simulation
@@ -241,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -310,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0739-daily-temperatures) |
 ## Design
