@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1078-remove-outermost-parentheses](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1160-letter-tile-possibilities](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1160-letter-tile-possibilities) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1508-longest-happy-prefix](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1508-longest-happy-prefix) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1714-rearrange-spaces-between-words](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1714-rearrange-spaces-between-words) |
@@ -221,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1160-letter-tile-possibilities](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1160-letter-tile-possibilities) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2331-intersection-of-multiple-arrays](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2331-intersection-of-multiple-arrays) |
 ## Counting
