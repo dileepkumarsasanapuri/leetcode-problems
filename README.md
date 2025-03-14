@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2508-maximum-sum-of-an-hourglass) |
 ## Backtracking
@@ -340,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0129-sum-root-to-leaf-numbers](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -356,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -396,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0200-number-of-islands) |
 | [1706-min-cost-to-connect-all-points](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1706-min-cost-to-connect-all-points) |
 ## Graph
 |  |
