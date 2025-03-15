@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0739-daily-temperatures) |
 | [1046-max-consecutive-ones-iii](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0410-split-array-largest-sum) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Simulation
 |  |
 | ------- |
@@ -466,4 +468,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1185-find-in-mountain-array](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1185-find-in-mountain-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
