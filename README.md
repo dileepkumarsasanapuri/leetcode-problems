@@ -384,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0662-maximum-width-of-binary-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2384-root-equals-sum-of-children) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Depth-First Search
@@ -411,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Breadth-First Search
 |  |
@@ -429,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0404-sum-of-left-leaves](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0404-sum-of-left-leaves) |
 | [0662-maximum-width-of-binary-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Binary Tree
 |  |
@@ -459,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0662-maximum-width-of-binary-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Search Tree
 |  |
