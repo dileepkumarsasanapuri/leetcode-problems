@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0075-sort-colors) |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0205-isomorphic-strings) |
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0242-valid-anagram) |
@@ -229,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0138-copy-list-with-random-pointer) |
