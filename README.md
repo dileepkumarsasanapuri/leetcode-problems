@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0214-shortest-palindrome) |
+| [0572-subtree-of-another-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0812-rotate-string) |
 | [1508-longest-happy-prefix](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1508-longest-happy-prefix) |
 ## Math
@@ -379,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -406,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
@@ -452,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -492,6 +496,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0214-shortest-palindrome) |
+| [0572-subtree-of-another-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0572-subtree-of-another-tree) |
 | [1508-longest-happy-prefix](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1508-longest-happy-prefix) |
 ## Interactive
 |  |
