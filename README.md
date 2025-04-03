@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0172-factorial-trailing-zeroes](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0231-power-of-two) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2050-count-good-numbers) |
@@ -328,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [2050-count-good-numbers](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2050-count-good-numbers) |
 ## Merge Sort
@@ -339,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0078-subsets](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0231-power-of-two) |
 ## Monotonic Stack
 |  |
 | ------- |
