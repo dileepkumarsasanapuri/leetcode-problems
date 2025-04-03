@@ -342,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0231-power-of-two) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Monotonic Stack
 |  |
 | ------- |
