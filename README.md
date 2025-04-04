@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0410-split-array-largest-sum) |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0231-power-of-two) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -219,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0204-count-primes) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2610-closest-prime-numbers-in-range](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2610-closest-prime-numbers-in-range) |
 ## Greedy
@@ -532,4 +535,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
