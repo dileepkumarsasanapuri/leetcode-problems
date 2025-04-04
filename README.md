@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0189-rotate-array) |
@@ -331,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0224-basic-calculator) |
