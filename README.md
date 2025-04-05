@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1646-kth-missing-positive-number](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1646-kth-missing-positive-number) |
 | [1706-min-cost-to-connect-all-points](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1706-min-cost-to-connect-all-points) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2227-sum-of-subarray-ranges](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2227-sum-of-subarray-ranges) |
 | [2331-intersection-of-multiple-arrays](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2331-intersection-of-multiple-arrays) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2508-maximum-sum-of-an-hourglass) |
@@ -300,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0943-sum-of-subarray-minimums](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2227-sum-of-subarray-ranges](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2227-sum-of-subarray-ranges) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Heap (Priority Queue)
 |  |
@@ -369,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2227-sum-of-subarray-ranges) |
 ## Design
 |  |
 | ------- |
