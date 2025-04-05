@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0224-basic-calculator](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0402-remove-k-digits](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
@@ -235,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0044-wildcard-matching) |
+| [0402-remove-k-digits](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0410-split-array-largest-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2032-largest-odd-number-in-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -294,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0735-asteroid-collision) |
@@ -367,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0739-daily-temperatures) |
