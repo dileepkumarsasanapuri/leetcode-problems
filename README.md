@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1046-max-consecutive-ones-iii](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Prefix Sum
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
@@ -271,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0496-next-greater-element-i) |
