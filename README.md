@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0966-binary-subarrays-with-sum) |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0205-isomorphic-strings) |
@@ -276,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0138-copy-list-with-random-pointer) |
