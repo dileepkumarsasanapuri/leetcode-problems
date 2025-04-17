@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0049-group-anagrams) |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0085-maximal-rectangle) |
@@ -265,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0410-split-array-largest-sum) |
