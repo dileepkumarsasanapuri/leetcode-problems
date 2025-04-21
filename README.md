@@ -347,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
@@ -445,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0146-lru-cache](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -474,6 +476,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0226-invert-binary-tree) |
@@ -559,6 +562,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0226-invert-binary-tree) |
@@ -582,6 +586,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0099-recover-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0450-delete-node-in-a-bst) |
@@ -649,4 +654,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0146-lru-cache](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0460-lfu-cache) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
