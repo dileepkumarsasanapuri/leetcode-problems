@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0943-sum-of-subarray-minimums](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1034-subarrays-with-k-different-integers) |
+| [1036-rotting-oranges](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -210,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [1036-rotting-oranges](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1036-rotting-oranges) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2508-maximum-sum-of-an-hourglass) |
 ## Backtracking
 |  |
@@ -557,6 +559,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1036-rotting-oranges](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Binary Tree
