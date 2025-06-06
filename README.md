@@ -281,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0943-sum-of-subarray-minimums](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0943-sum-of-subarray-minimums) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Simulation
 |  |
 | ------- |
@@ -673,6 +674,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0803-cheapest-flights-within-k-stops](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0820-find-eventual-safe-states) |
 | [1706-min-cost-to-connect-all-points](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1706-min-cost-to-connect-all-points) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Minimum Spanning Tree
 |  |
@@ -684,6 +686,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -736,4 +739,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
