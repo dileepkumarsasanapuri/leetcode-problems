@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1706-min-cost-to-connect-all-points](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1753-path-with-minimum-effort) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2227-sum-of-subarray-ranges](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2227-sum-of-subarray-ranges) |
 | [2331-intersection-of-multiple-arrays](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2331-intersection-of-multiple-arrays) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2423-minimum-deletions-to-make-array-divisible) |
@@ -257,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0455-assign-cookies) |
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2331-intersection-of-multiple-arrays](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2331-intersection-of-multiple-arrays) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 ## Dynamic Programming
@@ -354,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1370-count-number-of-nice-subarrays](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2331-intersection-of-multiple-arrays](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2331-intersection-of-multiple-arrays) |
 ## Counting
 |  |
@@ -404,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1753-path-with-minimum-effort) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Bucket Sort
