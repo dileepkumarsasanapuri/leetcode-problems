@@ -759,4 +759,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0584-find-customer-referee](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0584-find-customer-referee) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1908-recyclable-and-low-fat-products](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1908-recyclable-and-low-fat-products) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
