@@ -753,4 +753,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1186-building-h2o](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1186-building-h2o) |
 | [1187-print-foobar-alternately](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1187-print-foobar-alternately) |
 | [1216-print-zero-even-odd](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1216-print-zero-even-odd) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
