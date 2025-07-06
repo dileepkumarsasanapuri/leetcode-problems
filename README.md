@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0120-triangle](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0136-single-number) |
@@ -290,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0085-maximal-rectangle) |
+| [0120-triangle](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0198-house-robber) |
