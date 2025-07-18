@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1370-count-number-of-nice-subarrays](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2032-largest-odd-number-in-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 ## String Matching
 |  |
 | ------- |
