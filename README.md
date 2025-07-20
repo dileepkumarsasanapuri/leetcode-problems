@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1706-min-cost-to-connect-all-points](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1753-path-with-minimum-effort) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1881-closest-subsequence-sum](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1881-closest-subsequence-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2227-sum-of-subarray-ranges](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2227-sum-of-subarray-ranges) |
 | [2331-intersection-of-multiple-arrays](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2331-intersection-of-multiple-arrays) |
@@ -230,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1881-closest-subsequence-sum](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1881-closest-subsequence-sum) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Matrix
 |  |
@@ -282,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1881-closest-subsequence-sum](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1881-closest-subsequence-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2331-intersection-of-multiple-arrays](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2331-intersection-of-multiple-arrays) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2423-minimum-deletions-to-make-array-divisible) |
@@ -316,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0967-minimum-falling-path-sum](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0967-minimum-falling-path-sum) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1559-cherry-pickup-ii](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1559-cherry-pickup-ii) |
+| [1881-closest-subsequence-sum](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1881-closest-subsequence-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Simulation
 |  |
@@ -502,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0231-power-of-two) |
+| [1881-closest-subsequence-sum](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1881-closest-subsequence-sum) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Monotonic Stack
 |  |
@@ -810,4 +815,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0070-climbing-stairs) |
+## Bitmask
+|  |
+| ------- |
+| [1881-closest-subsequence-sum](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1881-closest-subsequence-sum) |
 <!---LeetCode Topics End-->
