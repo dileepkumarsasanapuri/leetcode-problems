@@ -1,30 +1,32 @@
 class Solution {
-    static int daysReq(int []arr,int cap){
-        int days=1,load=0;
-        for(int i=0;i<arr.length;i++){
-            if(load+arr[i] > cap){
-                days=days+1;
-                load=arr[i];
+    boolean canBeshipped(int []wt,int cap,int d){
+        int cur=0,used=1;
+        for(int i:wt){
+            if(cur+i>cap){
+                used++;
+                cur=0;
             }
-            else load +=arr[i];
+                cur+=i;
+            
         }
-        return days;
-
+        return used<=d;
     }
     public int shipWithinDays(int[] weights, int days) {
-        int low=0,sum=0;
+        int low=0,high=0,cap=0;
         for(int i:weights){
-            sum+=i;
-            low=Math.max(low,i);
+            high+=i;
+            low=Math.max(i,low);
         }
-        int high=sum;
         while(low<=high){
             int mid=(low+high)/2;
-            if(daysReq(weights,mid)<=days){
+            if(canBeshipped(weights,mid,days)){
+                cap=mid;
                 high=mid-1;
             }
-            else low=mid+1;
+            else{
+                low=mid+1;
+            }
         }
-        return low;
+        return cap;
     }
 }
