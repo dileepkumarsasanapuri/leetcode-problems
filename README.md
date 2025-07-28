@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1813-maximum-erasure-value](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1881-closest-subsequence-sum](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1881-closest-subsequence-sum) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2227-sum-of-subarray-ranges](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2227-sum-of-subarray-ranges) |
 | [2331-intersection-of-multiple-arrays](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2331-intersection-of-multiple-arrays) |
@@ -290,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1160-letter-tile-possibilities](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Sorting
@@ -540,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0231-power-of-two) |
 | [1881-closest-subsequence-sum](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1881-closest-subsequence-sum) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Monotonic Stack
 |  |
@@ -794,6 +797,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0204-count-primes) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Monotonic Queue
 |  |
 | ------- |
