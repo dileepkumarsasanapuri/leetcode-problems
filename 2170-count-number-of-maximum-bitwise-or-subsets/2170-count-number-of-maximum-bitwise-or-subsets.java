@@ -1,26 +1,22 @@
 class Solution {
-    int getOr(List<Integer> nums){
-        int out=0;
-        for(int i:nums){
-            out=out|i;
-        }
-        return out;
-    }
+    int maxOr=0,cnt=0;
     public int countMaxOrSubsets(int[] nums) {
-        HashMap<Integer,Integer> map=new HashMap<>();
-        int n=nums.length;
-        int maxor=0;
-        for(int mask=0;mask<(1<<n);mask++){
-            List<Integer> subset=new ArrayList<>();
-            for(int i=0;i<n;i++){
-                if((mask & (1<<i))!=0){
-                    subset.add(nums[i]);
-                }
+       for(int i:nums){
+        maxOr|=i;
+       }
+
+       backtrack(nums,0,0);
+       return cnt;
+    }
+    void backtrack(int []nums,int ind,int cur){
+        if(ind==nums.length){
+            if(cur==maxOr){
+                cnt++;
             }
-            int or=getOr(subset);
-            maxor=Math.max(maxor,or);
-            map.put(or,map.getOrDefault(or,0)+1);
+            return;
         }
-        return map.get(maxor);
+
+        backtrack(nums,ind+1,cur|nums[ind]);
+        backtrack(nums,ind+1,cur);
     }
 }
