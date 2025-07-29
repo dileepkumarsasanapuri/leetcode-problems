@@ -1,21 +1,18 @@
 class Solution {
     public int[] smallestSubarrays(int[] nums) {
         int n=nums.length;
-        int []res=new int[n];
-        int last[]=new int[32];
-        Arrays.fill(last,-1);
-        for(int i=n-1;i>=0;i--){
-            for(int b=0;b<32;b++){
-                if((nums[i] & (1<<b))!=0) last[b]=i;
+        int []ans=new int[n];
+        int []or=nums.clone();
+        for(int i=0;i<n;i++){
+            int x=nums[i];
+            ans[i]=1;
+            for(int j=i-1;j>=0;j--){
+                if((or[j]|x)==or[j])  break;
+            or[j]=or[j]|x;
+            ans[j]=i-j+1;
             }
-            int far=i;
-            for(int b:last){
-                if(b!=-1){
-                    far=Math.max(far,b);
-                }
-            }
-            res[i]=far-i+1;
         }
-        return res;
+            return ans;
     }
+
 }
