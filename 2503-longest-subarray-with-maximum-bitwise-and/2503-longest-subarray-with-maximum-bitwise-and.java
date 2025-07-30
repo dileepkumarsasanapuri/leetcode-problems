@@ -1,6 +1,9 @@
 class Solution {
     public int longestSubarray(int[] nums) {
-      int  maxAnd=Arrays.stream(nums).max().getAsInt();
+      int  maxAnd=0;
+      for(int i:nums){
+        maxAnd=Math.max(maxAnd,i);
+      }
         int res=1;
         for(int i=0;i<nums.length;i++){
             if(nums[i]==maxAnd){
