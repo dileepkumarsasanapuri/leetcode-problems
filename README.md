@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0076-minimum-window-substring) |
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0029-divide-two-integers](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0172-factorial-trailing-zeroes) |
@@ -357,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0043-multiply-strings](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0735-asteroid-collision) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Number Theory
@@ -544,6 +547,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
