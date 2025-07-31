@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0739-daily-temperatures) |
 | [0890-lemonade-change](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0890-lemonade-change) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0967-minimum-falling-path-sum) |
@@ -348,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0673-number-of-longest-increasing-subsequence](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0967-minimum-falling-path-sum) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -552,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0231-power-of-two) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1881-closest-subsequence-sum](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1881-closest-subsequence-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
