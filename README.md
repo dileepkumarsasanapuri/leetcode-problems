@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2689-rearranging-fruits](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2689-rearranging-fruits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Binary Search
@@ -323,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2331-intersection-of-multiple-arrays](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2331-intersection-of-multiple-arrays) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+| [2689-rearranging-fruits](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2689-rearranging-fruits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -390,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1818-maximum-score-from-removing-substrings](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2032-largest-odd-number-in-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2689-rearranging-fruits](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Divide and Conquer
 |  |
@@ -443,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2331-intersection-of-multiple-arrays](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2331-intersection-of-multiple-arrays) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2689-rearranging-fruits](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Counting
 |  |
