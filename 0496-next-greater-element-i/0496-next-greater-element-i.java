@@ -8,10 +8,11 @@ class Solution {
             }
             st.push(num);
         }
-        int []res=new int[nums1.length];
-        for(int i=0;i<nums1.length;i++){
-            res[i]=map.getOrDefault(nums1[i],-1);
-        }
+            int []res=new int[nums1.length];
+            for(int i=0;i<nums1.length;i++){
+                res[i]=map.getOrDefault(nums1[i],-1);
+            }
+        
         return res;
     }
 }
