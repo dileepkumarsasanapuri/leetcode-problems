@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2689-rearranging-fruits](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2689-rearranging-fruits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3790-fruits-into-baskets-ii](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1646-kth-missing-positive-number](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1753-path-with-minimum-effort) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3790-fruits-into-baskets-ii](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -370,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0735-asteroid-collision) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -822,6 +825,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [3790-fruits-into-baskets-ii](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -889,4 +893,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
