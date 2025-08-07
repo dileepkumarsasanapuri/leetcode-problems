@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2689-rearranging-fruits](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2689-rearranging-fruits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/3791-fruits-into-baskets-iii) |
@@ -298,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1559-cherry-pickup-ii](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1559-cherry-pickup-ii) |
 | [1753-path-with-minimum-effort](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1753-path-with-minimum-effort) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2508-maximum-sum-of-an-hourglass) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Backtracking
 |  |
 | ------- |
@@ -372,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1559-cherry-pickup-ii](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1559-cherry-pickup-ii) |
 | [1881-closest-subsequence-sum](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1881-closest-subsequence-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Simulation
 |  |
 | ------- |
