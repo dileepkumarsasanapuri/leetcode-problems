@@ -244,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0342-power-of-four) |
 | [0523-continuous-subarray-sum](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [0826-soup-servings](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0826-soup-servings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -570,6 +571,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0224-basic-calculator](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0342-power-of-four) |
 | [2050-count-good-numbers](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2050-count-good-numbers) |
 ## Merge Sort
 |  |
@@ -585,6 +587,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1881-closest-subsequence-sum](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1881-closest-subsequence-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
