@@ -180,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0043-multiply-strings) |
@@ -223,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0572-subtree-of-another-tree) |
 | [0686-repeated-string-match](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0686-repeated-string-match) |
@@ -264,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0075-sort-colors) |
