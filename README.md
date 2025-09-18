@@ -479,6 +479,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2331-intersection-of-multiple-arrays](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2331-intersection-of-multiple-arrays) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2689-rearranging-fruits](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2689-rearranging-fruits) |
+| [3678-design-task-manager](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Counting
 |  |
@@ -539,6 +540,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3678-design-task-manager](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/3678-design-task-manager) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -630,6 +632,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0460-lfu-cache](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0460-lfu-cache) |
 | [0937-online-stock-span](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/0937-online-stock-span) |
+| [3678-design-task-manager](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/3678-design-task-manager) |
 ## Queue
 |  |
 | ------- |
@@ -937,6 +940,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Ordered Set
 |  |
 | ------- |
+| [3678-design-task-manager](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/3791-fruits-into-baskets-iii) |
 ## Probability and Statistics
