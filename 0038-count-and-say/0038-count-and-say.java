@@ -5,7 +5,9 @@ class Solution {
             StringBuilder temp=new StringBuilder();
             int cnt=1;
             for(int j=1;j<res.length();j++){
-                if(res.charAt(j)==res.charAt(j-1)) cnt++;
+                if(res.charAt(j)==res.charAt(j-1)){
+                    cnt++;
+                }
                 else{
                     temp.append(cnt).append(res.charAt(j-1));
                     cnt=1;
