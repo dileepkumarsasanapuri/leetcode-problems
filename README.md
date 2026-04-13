@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1753-path-with-minimum-effort](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1753-path-with-minimum-effort) |
 | [1813-maximum-erasure-value](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1881-closest-subsequence-sum](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/1881-closest-subsequence-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dileepkumarsasanapuri/leetcode-problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
